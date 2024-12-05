@@ -6,6 +6,7 @@ typedef struct
 {
     int x;
     int y;
+
 } Pos;
 
 class objPos

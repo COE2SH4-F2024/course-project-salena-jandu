@@ -22,6 +22,8 @@ objPos::objPos(int xPos, int yPos, char sym)
 
 
 
+
+
 void objPos::setObjPos(objPos o)
 {
     pos->x = o.pos->x;
